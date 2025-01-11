@@ -1,6 +1,5 @@
 name: issue-comment-workflow
-on:
-  issue_comment:
+on: issue_comment
 
 jobs:
   pr-comment:
